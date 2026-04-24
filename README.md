@@ -1,6 +1,13 @@
 # Me
 Hey, I’m **LXKCV**.<br>I’m a **passionate developer** who enjoys building, testing, and improving digital projects.<br><br>I work across different types of development:<br><br>💻 Web development (websites, interfaces, landing pages)<br>⚙️ Automation tools and scripting<br>🐍 Python applications<br>🤖 Bots and tools for Discord and other platforms<br>🧠 Experimenting with new tech ideas and concepts<br><br>My main goal is simple: **build useful projects while constantly learning and leveling up my skills**.<br>I’m always open to collaborating with other developers and entrepreneurs.<br><br>---<br><br>🚀 Projects & collaborations<br><br>I’m regularly looking for:<br><br>* open-source projects to contribute to<br>* small freelance opportunities (free or paid) to build real solutions<br>* collaborations with other developers<br><br>If you’ve got an idea, a project, or a technical problem to solve, there’s a good chance I can help.<br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LXKCV/LXKCV/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LXKCV/LXKCV/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LXKCV/LXKCV/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 ## Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/LXKCV) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/1363494879145230446) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@lxkc.v) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:timeoliboit@gmail.com) 
