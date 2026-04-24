@@ -1,11 +1,6 @@
 # Me
 Hey, I’m **LXKCV**.<br>I’m a **passionate developer** who enjoys building, testing, and improving digital projects.<br><br>I work across different types of development:<br><br>💻 Web development (websites, interfaces, landing pages)<br>⚙️ Automation tools and scripting<br>🐍 Python applications<br>🤖 Bots and tools for Discord and other platforms<br>🧠 Experimenting with new tech ideas and concepts<br><br>My main goal is simple: **build useful projects while constantly learning and leveling up my skills**.<br>I’m always open to collaborating with other developers and entrepreneurs.<br><br>---<br><br>🚀 Projects & collaborations<br><br>I’m regularly looking for:<br><br>* open-source projects to contribute to<br>* small freelance opportunities (free or paid) to build real solutions<br>* collaborations with other developers<br><br>If you’ve got an idea, a project, or a technical problem to solve, there’s a good chance I can help.<br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LXKCV/LXKCV/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LXKCV/LXKCV/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LXKCV/LXKCV/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
